@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-  char arr[]="hello guihang";
+  char arr[]="hello weizengjun";
   printf("%s",arr);
 }
